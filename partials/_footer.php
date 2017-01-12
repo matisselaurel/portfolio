@@ -38,7 +38,7 @@
       <footer>
         <section class='text-center'>
           <div class='social'>
-            <a class='icon fa fa-linkedin' target="_blank" href='https://www.linkedin.com/profile/view?id=313116925'></a>
+            <a class='icon fa fa-linkedin' target="_blank" href='https://www.linkedin.com/in/matisse-laurel-b11a4188'></a>
             <a class='icon fa fa-print' href='/MatisseLaurelresume2017.pdf'></a>
             <!-- <a class="icon-rdio" href="http://www.rdio.com/people/matisselaurel/" target="_blank" ></a> -->
             <a class="icon-magento" target="_blank" href="http://www.magentocommerce.com/certification/directory?q=matisse&in=&country_id=&region_id=&region=&certificate_type=" ></a>
