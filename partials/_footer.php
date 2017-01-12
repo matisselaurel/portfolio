@@ -28,7 +28,7 @@
                   <div class='fa fa-envelope-o'></div>
                 </div>
                 <div class='col-md-10'>
-                  <p>info@madebymatisse.com</p>
+                  <p>madebymatisse@gmail.com</p>
                 </div>
               </div>
             </div>
