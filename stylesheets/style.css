@@ -25,7 +25,7 @@ Made by Themanoid
 -------------*/
 ::selection {
     /*background: #403E3B;*/
-    background: black;
+  background: #403E3B;
   color: #fff; }
 
 ::-moz-selection {
@@ -1423,4 +1423,9 @@ a.brand span {
     font-family: monospace;
     font-size: 12px;
     letter-spacing: -1px;
+}
+
+a#brand-logo:hover {
+    background: white!important;
+    color: black!important;
 }
