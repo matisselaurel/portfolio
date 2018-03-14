@@ -30,7 +30,7 @@
         <section>
       
       <a id="brand-logo" class='brand' href='index.html'>
-            Matisse Laurel
+            Matisse Laurel <span>here to give you insight</span>
           </a>
           <ul id='navigation'>
             <div class='trigger'>

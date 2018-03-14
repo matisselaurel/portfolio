@@ -1415,3 +1415,12 @@ header {
 a.brand {
     color: yellow!important;
 }
+
+a.brand span {
+    opacity:0;
+    text-transform: lowercase;
+    font-style: italic;
+    font-family: monospace;
+    font-size: 12px;
+    letter-spacing: -1px;
+}
