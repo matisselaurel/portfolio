@@ -49,6 +49,10 @@
         </section>
       </footer>
     </div>
+<script>
+ TweenLite.to("#img-earth", 1.5, {width:100});
+ TweenLite.to("#brand-logo", 2, {backgroundColor:"#707070", width:"50%", top:"100px", ease:Power2.easeInOut});
+</script>
     <script src="javascripts/jquery.min.js" type="text/javascript"></script>
     <script src="javascripts/jquery.easing.1.3.js" type="text/javascript"></script>
     <script src="javascripts/jquery.mobile.custom.min.js" type="text/javascript"></script>
