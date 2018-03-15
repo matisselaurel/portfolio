@@ -50,11 +50,19 @@
       </footer>
     </div>
 <script>
- TweenLite.to("#img-earth", 1.5, {width:100});
-TweenLite.to("#brand-logo", 2, {onComplete:rollText, backgroundColor:"#707070", width:"50%", top:"100px", ease:Power2.easeInOut});
+TweenLite.to("#img-earth", 1.5, {onComplete:rollBrand, width:100});
+
+function rollBrand (){
+    TweenLite.to("#brand-logo", 2, {onComplete:rollText, opacity:"1", backgroundColor:"#707070", width:"50%", top:"100px", ease:Power2.easeInOut});
+    console.log("rollBrand");
+}
 function rollText (){
-    TweenLite.to("#brand-logo span", 2, {opacity:"1"});
-    console.log('testerrr');
+    TweenLite.to("#brand-logo span", 2, {onComplete:bounceBrand, opacity:"1"});
+    console.log('rollText');
+} 
+function bounceBrand (){
+    TweenLite.to("#brand-logo", 1, {paddingLeft:"50px", ease:Bounce.easeOut});
+    console.log("bounceBrand");
 }
 </script>
     <script src="javascripts/jquery.min.js" type="text/javascript"></script>

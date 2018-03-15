@@ -1429,3 +1429,7 @@ a#brand-logo:hover {
     background: white!important;
     color: black!important;
 }
+
+a#brand-logo {
+    opacity: 0;
+}
