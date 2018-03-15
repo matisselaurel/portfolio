@@ -1433,3 +1433,12 @@ a#brand-logo:hover {
 a#brand-logo {
     opacity: 0;
 }
+.shine {
+    opacity:0;
+    hieght: 1px;
+    min-width: 5px;
+    background: blue;
+    float: left;
+    min-height: 50px;
+    background-blend-mode:color-dodge;
+}

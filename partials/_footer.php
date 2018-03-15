@@ -50,6 +50,7 @@
       </footer>
     </div>
 <script>
+TweenLite.to(".shine", 2, {rotation:360, transformOrigin:"left top", background:"yellowgreen", opacity:"1"});
 TweenLite.to("#img-earth", 1.5, {onComplete:rollBrand, width:100});
 
 function rollBrand (){
@@ -61,7 +62,7 @@ function rollText (){
     console.log('rollText');
 } 
 function bounceBrand (){
-    TweenLite.to("#brand-logo", 1, {paddingLeft:"50px", ease:Bounce.easeOut});
+    TweenLite.to("#brand-logo", 1, {paddingLeft:"30px", ease:Bounce.easeOut});
     console.log("bounceBrand");
 }
 </script>
