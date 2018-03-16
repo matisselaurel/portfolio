@@ -27,7 +27,7 @@
     <div class='container-fluid'>
 
       <header data-spy='affix'>
-      <img id="img-earth" alt="Sap" src="images/earth.jpg" width="650" />
+      <img id="img-earth" alt="Sap" src="images/earth.png" width="650" />
       <section>
       <div class='shine'></div>
       <a id="brand-logo" class='brand' href='index.html'>
