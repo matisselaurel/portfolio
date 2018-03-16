@@ -74,7 +74,7 @@ body {
     -moz-opacity: 1;
     -khtml-opacity: 1;
     opacity: 1;
-    background: black;
+    
   }
 
 /*-----------
@@ -1415,7 +1415,11 @@ header {
 a.brand {
     color: yellow!important;
 }
-
+#img-earth {
+    position: absolute;
+    mix-blend-mode: hard-light;
+    top:0;
+}
 a.brand span {
     opacity:0;
     text-transform: lowercase;
@@ -1441,4 +1445,9 @@ a#brand-logo {
     float: left;
     min-height: 50px;
     background-blend-mode:color-dodge;
+}
+header.affix-top {
+    background: black;
+    padding-bottom: 17px;
+    /*border: 3px solid gold;*/
 }

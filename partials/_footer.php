@@ -51,7 +51,7 @@
     </div>
 <script>
 TweenLite.to(".shine", 2, {rotation:360, transformOrigin:"left top", background:"yellowgreen", opacity:"1"});
-TweenLite.to("#img-earth", 1.5, {onComplete:rollBrand, width:100});
+TweenLite.to("#img-earth", 1.5, {onComplete:rollBrand, width:100, ease:Power2.easeInOut});
 
 function rollBrand (){
     TweenLite.to("#brand-logo", 2, {onComplete:rollText, opacity:"1", backgroundColor:"#707070", width:"50%", top:"100px", ease:Power2.easeInOut});

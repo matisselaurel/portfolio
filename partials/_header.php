@@ -25,9 +25,10 @@
   <body>
 
     <div class='container-fluid'>
-      <img id="img-earth" alt="Sap" src="images/earth.jpg" width="450" />
+
       <header data-spy='affix'>
-        <section>
+      <img id="img-earth" alt="Sap" src="images/earth.jpg" width="650" />
+      <section>
       <div class='shine'></div>
       <a id="brand-logo" class='brand' href='index.html'>
             Matisse Laurel <span>here to give you insight</span>

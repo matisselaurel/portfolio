@@ -1,33 +1,34 @@
 <?php require_once('partials/_header.php') ?>
 <div class='slider'>
         <ul class='slides'>
-        	<li class='slide'>
+    <!-- <li class='slide'>
             <section class='jumbotron'>
               <div class='bg' style='background-image:url(images/projects/19.png);'></div>
               <section>
                 <div class='row'>
                   <div class='col-md-6'>
                     <p>Matisse. <br>The Web Developer.</p>
-                    <!-- <a class='transition btn btn-default btn-xs' href='elements.html'>Explore Tera</a> -->
+               
                   </div>
                 </div>
               </section>
             </section>
-          </li>
-          <!-- <li class='slide'>
+          </li>-->
+    
+           <li class='slide'>
             <section class='jumbotron'>
               <div class='bg' style='background-image:url(images/projects/18.jpg);'></div>
               <section>
                 <div class='row'>
                   <div class='col-md-6'>
-                    <p>Meet Tera. <br>The Ultimate Portfolio Template.</p>
-                    <a class='transition btn btn-default btn-xs' href='elements.html'>Explore Tera</a>
+                    <p>Meet Matisse. <br>The Ultimate Web Developer.</p>
+                    <a class='transition btn btn-default btn-xs' href='elements.html'>Explore</a>
                   </div>
                 </div>
               </section>
             </section>
-          </li> -->
-          <!-- <li class='slide dark'>
+          </li> 
+           <li class='slide dark'>
             <section class='jumbotron'>
               <div class='bg' style='background-image:url(images/projects/05.jpg);'></div>
               <section>
@@ -38,7 +39,22 @@
                 </div>
               </section>
             </section>
-          </li> -->
+          </li>
+    
+        	<li class='slide'>
+            <section class='jumbotron'>
+              <div class='bg' style='background-image:url(images/projects/19.png);'></div>
+              <section>
+                <div class='row'>
+                  <div class='col-md-6'>
+                    <p>Matisse. <br>The Web Developer.</p>
+               
+                  </div>
+                </div>
+              </section>
+            </section>
+          </li>
+
           <!-- <li class='slide text-right'>
             <section class='jumbotron'>
               <div class='bg' style='background-image:url(images/projects/03.jpg);'></div>
