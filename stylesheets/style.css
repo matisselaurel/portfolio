@@ -1419,7 +1419,7 @@ a.brand {
     position: absolute;
     mix-blend-mode: lighten;
     top:0;
-    opacity:.2;
+    opacity:1;
 }
 a.brand span {
     opacity:0;

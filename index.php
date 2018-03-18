@@ -1,7 +1,9 @@
+<!-- Header -->
 <?php require_once('partials/_header.php') ?>
+<!-- ./End Header -->
 <div class='slider'>
         <ul class='slides'>
-    <!-- <li class='slide'>
+     <li class='slide'>
             <section class='jumbotron'>
               <div class='bg' style='background-image:url(images/projects/19.png);'></div>
               <section>
@@ -13,7 +15,7 @@
                 </div>
               </section>
             </section>
-          </li>-->
+          </li>
     
            <li class='slide'>
             <section class='jumbotron'>
