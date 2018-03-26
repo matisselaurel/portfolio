@@ -30,8 +30,8 @@
       <img id="img-earth" alt="Sap" src="images/earth.png" width="650" />
       <section>
       <div class='shine'></div>
-      <a id="brand-logo" class='brand' href='index.html'>
-            Matisse Laurel <span>here to give you insight</span>
+      <a id="brand-logo" class='brand' href='/'>
+            InsiteMeta <span> we're here to give you insight</span>
           </a>
           <ul id='navigation'>
             <div class='trigger'>
@@ -40,8 +40,24 @@
               <div class='bar'></div>
             </div>
             <li>
-              <a href='index.html'>Home</a>
+              <a href='/'>Home</a>
             </li>
+            <li><a href='about'>About</a></li>
+            <li>
+              <a href='#'>Services</a>
+               <ul>
+                  <li>Design & Development</li>
+                  <li>Branding</li>
+                  <li>Ecommerce</li>
+                  <li>Magento</li>
+                  <li>WooCommerce</li>
+                  <li>WordPress</li>
+                  <li>Drupal</li>
+                  <li>Shopify</li>
+                  <li>Sales Enablement</li>
+               </ul>
+            </li>
+
             <!--<li>
               <a href='#'>Features</a>
                <ul>
@@ -66,7 +82,7 @@
               </ul>
             </li>-->
             <li>
-              <a href='portfolio.html'>Portfolio</a>
+              <a href='portfolio'>Portfolio</a> <!-- case studies -->
               <!-- <ul>
                 <li>
                   <a href='portfolio.html'>Default portfolio</a>
@@ -106,7 +122,7 @@
               </ul>
             </li>-->
             <li>
-              <a href='contact.html'>Contact</a>
+              <a href='contact'>Contact</a>
             </li>
           </ul>
         </section>

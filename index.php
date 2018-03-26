@@ -121,7 +121,7 @@
         </div>
         <ul class='col-3' id='grid'>
         	<li class='item magento'>
-            <a class='inner' href='tokidoki.html' style='background:url(images/projects/28t.png);'>
+            <a class='inner' href='tokidoki' style='background:url(images/projects/28t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Magento + eCommerce + Toys
@@ -134,7 +134,7 @@
             </a>
           </li>
           <li class='item scratch'>
-            <a class='inner' href='metallica.html' style='background:url(images/projects/34t.png);'>
+            <a class='inner' href='metallica' style='background:url(images/projects/34t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Magento + Drupal + Music
@@ -147,7 +147,7 @@
             </a>
           </li>
           <li class='item scratch'>
-            <a class='inner' href='99-ranch.html' style='background:url(images/projects/33t.png);'>
+            <a class='inner' href='99-ranch' style='background:url(images/projects/33t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Umbraco + .net + Food
@@ -160,7 +160,7 @@
             </a>
           </li>
           <li class='item magento'>
-            <a class='inner' href='teefury.html' style='background:url(images/projects/18t.png);'>
+            <a class='inner' href='teefury' style='background:url(images/projects/18t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Magento + eCommerce + Apparel
@@ -176,7 +176,7 @@
 
 
 	<li class='item wordpress'>
-            <a class='inner' href='custom-architecture.html' style='background:url(images/projects/20t.png);'>
+            <a class='inner' href='custom-architecture' style='background:url(images/projects/20t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Wordpress + Architecture
@@ -189,7 +189,7 @@
             </a>
           </li>
           <li class='item wordpress'>
-            <a class='inner' href='hit-play-yoga.html' style='background:url(images/projects/21t.png);'>
+            <a class='inner' href='hit-play-yoga' style='background:url(images/projects/21t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Wordpress + Interactive Media + Yoga
@@ -202,7 +202,7 @@
             </a>
           </li>
           <li class='item magento'>
-            <a class='inner' href='cindab.html' style='background:url(images/projects/22t.png);'>
+            <a class='inner' href='cindab' style='background:url(images/projects/22t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Magento + eCommerce + Fashion
@@ -215,7 +215,7 @@
             </a>
           </li>
           <li class='item scratch'>
-            <a class='inner' href='kritik-oc.html' style='background:url(images/projects/23t.png);'>
+            <a class='inner' href='kritik-oc' style='background:url(images/projects/23t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Scratch+PHP + MVC + OOP + Photography
@@ -228,7 +228,7 @@
             </a>
           </li>
           <li class='item scratch'>
-            <a class='inner' href='hreference.html' style='background:url(images/projects/24t.png);'>
+            <a class='inner' href='hreference' style='background:url(images/projects/24t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Scratch+PHP + MVC + OOP + Job Board
@@ -241,7 +241,7 @@
             </a>
           </li>
            <li class='item magento'>
-            <a class='inner' href='naturalbabyco.html' style='background:url(images/projects/25t.png);'>
+            <a class='inner' href='naturalbabyco' style='background:url(images/projects/25t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Magento + eCommerce + Babies
@@ -254,7 +254,7 @@
             </a>
           </li>
           <li class='item magento'>
-            <a class='inner' href='braven.html' style='background:url(images/projects/26t.png);'>
+            <a class='inner' href='braven' style='background:url(images/projects/26t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Magento + eCommerce + Speakers
@@ -267,7 +267,7 @@
             </a>
           </li>
           <li class='item magento'>
-            <a class='inner' href='goorin.html' style='background:url(images/projects/27t.png);'>
+            <a class='inner' href='goorin' style='background:url(images/projects/27t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Magento + eCommerce + Hats
@@ -281,7 +281,7 @@
           </li>
 
           <li class='item magento'>
-            <a class='inner' href='persimmontree.html' style='background:url(images/projects/29t.png);'>
+            <a class='inner' href='persimmontree' style='background:url(images/projects/29t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Magento + eCommerce + Tea
@@ -294,7 +294,7 @@
             </a>
           </li>
           <li class='item scratch'>
-            <a class='inner' href='dethgoat.html' style='background:url(images/projects/31t.png);'>
+            <a class='inner' href='dethgoat' style='background:url(images/projects/31t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Scratch+PHP + MVC + OOP + Blog + Music
@@ -307,7 +307,7 @@
             </a>
           </li>
           <li class='item scratch'>
-            <a class='inner' href='reveryapparel.html' style='background:url(images/projects/30t.png);'>
+            <a class='inner' href='reveryapparel' style='background:url(images/projects/30t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Scratch+PHP + MVC + OOP + Apparel + eCommerce
@@ -320,7 +320,7 @@
             </a>
           </li>
           <li class='item wordpress'>
-            <a class='inner' href='crownsgd.html' style='background:url(images/projects/32t.png);'>
+            <a class='inner' href='crownsgd' style='background:url(images/projects/32t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Wordpress + Garage Doors

@@ -1,111 +1,6 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Matisse Laurel | Web Developer</title>
-    <meta charset='utf-8'>
-    <meta content='Description' name=''>
-    <meta content='1 day' name='revisit-after'>
-    <meta content='width=device-width, initial-scale=1' name='viewport'>
-    <meta name="robots" content="noindex">
-    <link rel="shortcut icon" href="favicon.ico?v=4" type="image/x-icon">
-    <!-- Fonts -->
-    <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,400italic,300italic,100italic,700italic,700' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
-    <!-- Styles -->
-    <link href="stylesheets/bootstrap.min.css" rel="stylesheet" type="text/css" />
-    <link href="stylesheets/font-awesome.min.css" rel="stylesheet" type="text/css" />
-    <link href="stylesheets/style.css" rel="stylesheet" type="text/css" />
-    <!-- HTML5 fallbacks -->
-    <!--[if lt IE 9]>
-    <script src="javascripts/html5shiv.js" type="text/javascript"></script>
-    <script src="javascripts/respond.min.js" type="text/javascript"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class='container-fluid'>
-      <header data-spy='affix'>
-        <section>
-          <a class='brand' href='index.html'>
-            Matisse Laurel
-          </a>
-          <ul id='navigation'>
-            <div class='trigger'>
-              <div class='bar'></div>
-              <div class='bar'></div>
-              <div class='bar'></div>
-            </div>
-            <li>
-              <a href='index.html'>Home</a>
-            </li>
-            <!-- <li>
-              <a href='#'>Features</a>
-              <ul>
-                <li>
-                  <a href='tera-slider.html'>Tera Slider</a>
-                </li>
-                <li>
-                  <a href='icons.html'>Retina icons</a>
-                </li>
-                <li>
-                  <a href='404.html'>404 Error page</a>
-                </li>
-                <li>
-                  <a href='index-boxed.html'>Boxed layout</a>
-                </li>
-                <li>
-                  <a href='profile.html'>Profile page</a>
-                </li>
-                <li>
-                  <a href='elements.html'>Elements</a>
-                </li>
-              </ul>
-            </li> -->
-            <li>
-              <a href='portfolio.html'>Portfolio</a>
-              <!-- <ul>
-                <li>
-                  <a href='portfolio.html'>Default portfolio</a>
-                </li>
-                <li>
-                  <a href='portfolio-no-spacing.html'>Portfolio no-spacing</a>
-                </li>
-                <li>
-                  <a href='portfolio-3-columns.html'>3 Columns portfolio</a>
-                </li>
-                <li>
-                  <a href='portfolio-lightbox.html'>Lightbox portfolio</a>
-                </li>
-                <li>
-                  <a href='portfolio-caption.html'>Caption portfolio</a>
-                </li>
-                <li>
-                  <a href='single.html'>Single page</a>
-                </li>
-              </ul> -->
-            </li>
-            <!-- <li>
-              <a href='#'>Blog</a>
-              <ul>
-                <li>
-                  <a href='blog.html'>Blog default</a>
-                </li>
-                <li>
-                  <a href='blog-sidebar.html'>Blog with sidebar</a>
-                </li>
-                <li>
-                  <a href='blog-single.html'>Blog single</a>
-                </li>
-                <li>
-                  <a href='blog-single-sidebar.html'>Blog single with sidebar</a>
-                </li>
-              </ul>
-            </li> -->
-            <li>
-              <a href='contact.html'>Contact</a>
-            </li>
-          </ul>
-        </section>
-      </header>
+<!-- Header -->
+<?php require_once('partials/_header.php') ?>
+<!-- ./End Header -->
       <section class='jumbotron small'>
         <section>
           <div class='row'>
@@ -136,7 +31,7 @@
         <ul id='grid'>
 
 	<li class='item magento'>
-            <a class='inner' href='tokidoki.html' style='background:url(images/projects/28t.png);'>
+            <a class='inner' href='tokidoki' style='background:url(images/projects/28t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Magento + eCommerce + Toys
@@ -149,7 +44,7 @@
             </a>
           </li>
           <li class='item scratch'>
-            <a class='inner' href='metallica.html' style='background:url(images/projects/34t.png);'>
+            <a class='inner' href='metallica' style='background:url(images/projects/34t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Magento + Drupal + Music
@@ -162,7 +57,7 @@
             </a>
           </li>
           <li class='item scratch'>
-            <a class='inner' href='99-ranch.html' style='background:url(images/projects/33t.png);'>
+            <a class='inner' href='99-ranch' style='background:url(images/projects/33t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Umbraco + .net + Food
@@ -175,7 +70,7 @@
             </a>
           </li>
           <li class='item magento'>
-            <a class='inner' href='teefury.html' style='background:url(images/projects/18t.png);'>
+            <a class='inner' href='teefury' style='background:url(images/projects/18t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Magento + eCommerce + Apparel
@@ -191,7 +86,7 @@
 
 
           <li class='item wordpress'>
-            <a class='inner' href='custom-architecture.html' style='background:url(images/projects/20t.png);'>
+            <a class='inner' href='custom-architecture' style='background:url(images/projects/20t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Wordpress + Architecture
@@ -204,7 +99,7 @@
             </a>
           </li>
           <li class='item wordpress'>
-            <a class='inner' href='hit-play-yoga.html' style='background:url(images/projects/21t.png);'>
+            <a class='inner' href='hit-play-yoga' style='background:url(images/projects/21t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Wordpress + Interactive Media + Yoga
@@ -217,7 +112,7 @@
             </a>
           </li>
           <li class='item magento'>
-            <a class='inner' href='cindab.html' style='background:url(images/projects/22t.png);'>
+            <a class='inner' href='cindab' style='background:url(images/projects/22t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Magento + eCommerce + Fashion
@@ -230,7 +125,7 @@
             </a>
           </li>
           <li class='item scratch'>
-            <a class='inner' href='kritik-oc.html' style='background:url(images/projects/23t.png);'>
+            <a class='inner' href='kritik-oc' style='background:url(images/projects/23t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Scratch+PHP + MVC + OOP + Photography
@@ -243,7 +138,7 @@
             </a>
           </li>
           <li class='item scratch'>
-            <a class='inner' href='hreference.html' style='background:url(images/projects/24t.png);'>
+            <a class='inner' href='hreference' style='background:url(images/projects/24t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Scratch+PHP + MVC + OOP + Job Board
@@ -256,7 +151,7 @@
             </a>
           </li>
           <li class='item magento'>
-            <a class='inner' href='naturalbabyco.html' style='background:url(images/projects/25t.png);'>
+            <a class='inner' href='naturalbabyco' style='background:url(images/projects/25t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Magento + eCommerce + Babies
@@ -269,7 +164,7 @@
             </a>
           </li>
           <li class='item magento'>
-            <a class='inner' href='braven.html' style='background:url(images/projects/26t.png);'>
+            <a class='inner' href='braven' style='background:url(images/projects/26t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Magento + eCommerce + Speakers
@@ -282,7 +177,7 @@
             </a>
           </li>
           <li class='item magento'>
-            <a class='inner' href='goorin.html' style='background:url(images/projects/27t.png);'>
+            <a class='inner' href='goorin' style='background:url(images/projects/27t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Magento + eCommerce + Hats
@@ -296,7 +191,7 @@
           </li>
 
           <li class='item magento'>
-            <a class='inner' href='persimmontree.html' style='background:url(images/projects/29t.png);'>
+            <a class='inner' href='persimmontree' style='background:url(images/projects/29t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Magento + eCommerce + Tea
@@ -309,7 +204,7 @@
             </a>
           </li>
           <li class='item scratch'>
-            <a class='inner' href='dethgoat.html' style='background:url(images/projects/31t.png);'>
+            <a class='inner' href='dethgoat' style='background:url(images/projects/31t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Scratch+PHP + MVC + OOP + Blog + Music
@@ -322,7 +217,7 @@
             </a>
           </li>
           <li class='item scratch'>
-            <a class='inner' href='reveryapparel.html' style='background:url(images/projects/30t.png);'>
+            <a class='inner' href='reveryapparel' style='background:url(images/projects/30t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Scratch+PHP + MVC + OOP + Apparel + eCommerce
@@ -335,7 +230,7 @@
             </a>
           </li>
           <li class='item wordpress'>
-            <a class='inner' href='crownsgd.html' style='background:url(images/projects/32t.png);'>
+            <a class='inner' href='crownsgd' style='background:url(images/projects/32t.png);'>
               <div class='caption'>
                 <div class='field'>
                   Wordpress + Garage Doors
