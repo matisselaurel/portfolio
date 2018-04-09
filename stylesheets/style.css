@@ -634,7 +634,8 @@ section {
     max-width: 1400px;
     padding-top: 141px;
     background: url(../images/projects/19-diff-volc.png);
-    background-position: 0px 100px;
+    background-position: 0px 0px;
+    background-size: contain;
     background-repeat: no-repeat;
     mix-blend-mode: difference;
     /*position: fixed;*/
@@ -759,7 +760,9 @@ a.blog-item {
     margin-top: 20px; } }
 
 footer {
-  background: #eee;
+    background: #eee;
+    mix-blend-mode: luminosity;
+    opacity: 0.5;
   margin-top: -5px; }
   footer section {
     padding: 120px 0;
@@ -799,8 +802,17 @@ footer {
 	05 Slider
 
 -----------*/
+  @media screen and (max-width: 767px) {
+      .slider,
+      section.work {
+	  background-size: 105%;
+	  background-repeat: no-repeat;
+	  background-position: 45% 100%;
+      }
+    }
 .slider {
-  width: 100%;
+    width: 100%;
+    background-size: cover;
   overflow: hidden;
  /* position: relative;*/
   display: block;
@@ -809,7 +821,8 @@ footer {
   background-image: url(../images/projects/19-diff.png);
   position:fixed;}
   .slider ul.slides {
-    position: relative;
+      position: relative;
+      mix-blend-mode: screen;
     display: inline-block;
     list-style: none;
     padding: 0;
@@ -1219,7 +1232,8 @@ header {
     transition: color 0.25s cubic-bezier(0.35, 0.085, 0.305, 1.005); }
   header.affix {
     padding-top: 0;
-    background: #403E3B; }
+    background: #403E3B;
+    }
     header.affix * {
       color: #bbb !important; }
     header.affix .brand {
@@ -1430,10 +1444,16 @@ a.brand {
 }
 #img-earth {
     position: absolute;
-    mix-blend-mode: lighten;
+    mix-blend-mode: luminosity;
     top:0;
+    border: 15px solid white;
+    outline: 5px solid white;
     opacity:1;
-}
+    transform: rotate(0.5turn);
+    transition: opacity .25s ease-in-out;
+  -moz-transition: opacity .25s ease-in-out;
+  -webkit-transition: opacity .25s ease-in-out;
+    }
 a.brand span {
     opacity:0;
     text-transform: lowercase;
@@ -1460,8 +1480,16 @@ a#brand-logo {
     min-height: 50px;
     background-blend-mode:color-dodge;
 }
+header.affix {
+    background: rgba(0, 0, 0, .63);
+    mix-blend-mode: hard-light;
+}
+.affix #img-earth {opacity:0!important;transition: opacity .25s ease-in-out;
+  -moz-transition: opacity .25s ease-in-out;
+  -webkit-transition: opacity .25s ease-in-out;}
 header.affix-top {
-    background: black;
+    background: rgba(0, 0, 0, .6);
+    mix-blend-mode: hard-light;
     padding-bottom: 17px;
     /*border: 3px solid gold;*/
 }
