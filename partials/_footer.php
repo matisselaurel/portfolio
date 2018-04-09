@@ -8,7 +8,7 @@
                 </div>
                 <div class='col-md-10'>
 
-                  <p>Irvine, CA, 92604</p>
+                  <p>Orange County || Los Angeles</p>
                 </div>
               </div>
             </div>
@@ -18,7 +18,7 @@
                   <div class='fa fa-phone'></div>
                 </div>
                 <div class='col-md-10'>
-                  <p>(949) 229 6799</p>
+                  <p>(747) 999 5294</p>
                 </div>
               </div>
             </div>
