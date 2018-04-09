@@ -632,7 +632,13 @@ section {
         padding: 50px; }
   section.work {
     max-width: 1400px;
-    padding-top: 20px; }
+    padding-top: 20px;
+    background: url(../images/projects/19-diff-volc.png);
+    background-position: 0px 110px;
+    background-repeat: no-repeat;
+    mix-blend-mode: difference;
+    /*position: fixed;*/
+    opacity: 1;}
   @media screen and (min-width: 1300px) {
     section {
       max-width: 1400px; } }
@@ -796,9 +802,12 @@ footer {
 .slider {
   width: 100%;
   overflow: hidden;
-  position: relative;
+ /* position: relative;*/
   display: block;
-  background: #403E3B; }
+  /* background: #403E3B;*/
+  /* background-image:url(../images/projects/19.png), url(../images/projects/19-diff-volc.png); */
+  background-image: url(../images/projects/19-diff.png);
+  position:fixed;}
   .slider ul.slides {
     position: relative;
     display: inline-block;

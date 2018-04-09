@@ -5,11 +5,11 @@
         <ul class='slides'>
      <li class='slide'>
             <section class='jumbotron'>
-              <div class='bg' style='background-image:url(images/projects/19.png);'></div>
+              <div class='bg' style='mix-blend-mode: difference; background-image:url(images/projects/19-volc.png);'></div>
               <section>
                 <div class='row'>
                   <div class='col-md-6'>
-                    <p>Matisse. <br>The Web Developer.</p>
+                    <!-- <p>Matisse. <br>The Web Developer.</p> -->
                
                   </div>
                 </div>
@@ -19,12 +19,12 @@
     
            <li class='slide'>
             <section class='jumbotron'>
-              <div class='bg' style='background-image:url(images/projects/18.jpg);'></div>
+              <div class='bg' style='background-image:url(images/projects/19-diff.png);'></div>
               <section>
                 <div class='row'>
                   <div class='col-md-6'>
-                    <p>Meet Matisse. <br>The Ultimate Web Developer.</p>
-                    <a class='transition btn btn-default btn-xs' href='elements.html'>Explore</a>
+                    <!-- <p>Meet Matisse. <br>The Ultimate Web Developer.</p> -->
+                    <!-- <a class='transition btn btn-default btn-xs' href='elements.html'>Explore</a> -->
                   </div>
                 </div>
               </section>
