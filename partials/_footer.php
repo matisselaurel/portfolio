@@ -18,7 +18,7 @@
                   <div class='fa fa-phone'></div>
                 </div>
                 <div class='col-md-10'>
-                  <p>(949) 229 6799</p>
+                  <p>(747) 999 5294</p>
                 </div>
               </div>
             </div>
