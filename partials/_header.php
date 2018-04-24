@@ -31,7 +31,7 @@
       <section>
       <div class='shine'></div>
       <a id="brand-logo" class='brand' href='/'>
-            InsiteMeta <span> we're here to give you insight</span>
+            Matisse Laurel <span> here to give you insight</span>
           </a>
           <ul id='navigation'>
             <div class='trigger'>
@@ -42,8 +42,8 @@
             <li>
               <a href='/'>Home</a>
             </li>
-            <li><a href='about'>About</a></li>
-            <li>
+            <!-- <li><a href='about'>About</a></li> -->
+            <!-- <li>
               <a href='#'>Services</a>
                <ul>
                   <li>Design & Development</li>
@@ -56,7 +56,7 @@
                   <li>Shopify</li>
                   <li>Sales Enablement</li>
                </ul>
-            </li>
+            </li> -->
 
             <!--<li>
               <a href='#'>Features</a>
