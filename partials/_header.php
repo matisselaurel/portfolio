@@ -9,8 +9,8 @@
     <meta name="robots" content="noindex">
     <link rel="shortcut icon" href="favicon.ico?v=4" type="image/x-icon">
     <!-- Fonts -->
-    <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,400italic,300italic,100italic,700italic,700' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,400italic,300italic,100italic,700italic,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
     <!-- Styles -->
     <link href="stylesheets/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="stylesheets/font-awesome.min.css" rel="stylesheet" type="text/css" />
