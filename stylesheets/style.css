@@ -1235,7 +1235,7 @@ header {
         padding-top: 8px;
         cursor: pointer; }
         header #navigation .trigger .bar {
-          background: #403E3B;
+          background: yellow;
           width: 100%;
           height: 1px;
           margin-bottom: 9px;

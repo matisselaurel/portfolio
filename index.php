@@ -2,7 +2,7 @@
 <?php require_once('partials/_header.php') ?>
 <!-- ./End Header -->
 <div class='slider'>
-        <ul class='slides'>
+        <!-- <ul class='slides'>
      <li class='slide'>
             <section class='jumbotron'>
               <div class='bg' style='background-image:url(images/projects/19.png);'></div>
@@ -57,7 +57,7 @@
             </section>
           </li>
 
-          <!-- <li class='slide text-right'>
+           <li class='slide text-right'>
             <section class='jumbotron'>
               <div class='bg' style='background-image:url(images/projects/03.jpg);'></div>
               <section>
@@ -68,8 +68,8 @@
                 </div>
               </section>
             </section>
-          </li> -->
-          <!-- <li class='slide dark'>
+          </li> 
+           <li class='slide dark'>
             <section class='jumbotron'>
               <div class='bg' style='background-image:url(images/projects/01.jpg);'></div>
               <section>
@@ -81,8 +81,8 @@
                 </div>
               </section>
             </section>
-          </li> -->
-          <!-- <li class='slide'>
+          </li> 
+           <li class='slide'>
             <section class='jumbotron'>
               <div class='bg' style='background-image:url(images/projects/06.jpg);'></div>
               <section>
@@ -93,8 +93,8 @@
                 </div>
               </section>
             </section>
-          </li> -->
-        </ul>
+          </li> 
+        </ul> -->
       </div>
       <section class='work'>
         <div class='row'>
