@@ -27,9 +27,25 @@
     <div class='container-fluid'>
 
       <header data-spy='affix'>
-      <img id="img-earth" alt="Sap" src="images/earth.png" width="650" />
+   
+<div class="sun">
+    <div class="ray_box">
+        <div class="ray ray1"></div>
+        <div class="ray ray2"></div>
+        <div class="ray ray3"></div>
+        <div class="ray ray4"></div>
+        <div class="ray ray5"></div>
+        <div class="ray ray6"></div>
+        <div class="ray ray7"></div>
+        <div class="ray ray8"></div>
+        <div class="ray ray9"></div>
+        <div class="ray ray10"></div>
+    </div>
+</div>
+   
+<!--      <img id="img-earth" alt="Sap" src="images/earth.png" width="650" /> -->
       <section>
-      <div class='shine'></div>
+      <!-- <div class='shine'></div> -->
       <a id="brand-logo" class='brand' href='/'>
             Matisse Laurel <span> here to give you insight</span>
           </a>
