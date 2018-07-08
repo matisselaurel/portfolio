@@ -73,7 +73,7 @@ function bounceBrand (){
 }
 tapped = 0;
 function tapNext(){
-   el = jQuery('.next-slide');
+  el = jQuery('.next-slide');
   el.trigger('tap');
   num = tapped;
   num++;
@@ -102,9 +102,19 @@ function tapNextThree(){
   //move line down at same speed at the same time
    .to(".ecomtext", duration, {top:"0px",  ease:Linear.easeNone}, "reveal")
   //shrink the line
-    .to(".jline3", 1, { width:0});
+   .to(".jline3", 1, {onComplete: restart, width:0});
     
   
+}
+
+function restart() {
+  
+setInterval(function(){
+  el = jQuery('.next-slide');
+  el.trigger('tap');
+
+  },3000);
+
 }
 
 function tapNextTwo(){

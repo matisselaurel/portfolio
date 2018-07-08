@@ -1056,7 +1056,7 @@ footer {
     right: 0;
     bottom: 0;
     top: 0;
-    padding: 40px;
+    padding: 20px;
     font-size: 15px; }
     .inner .caption .field {
       font-family: "Inconsolata", sans-serif;
@@ -1617,6 +1617,7 @@ header.affix-top {
     transform: perspective(700px) rotateY(-11deg);
     font-size: 26px;
     font-weight: 900;
+    font-family: Inconsolata;
 }
 .jheader2{
 /*  font-family: monospace;*/

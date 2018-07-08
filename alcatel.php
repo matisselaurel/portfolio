@@ -2,27 +2,27 @@
 <?php require_once('partials/_header.php') ?>
 <!-- ./End Header -->
 <section class='jumbotron'>
-        <div class='bg' style='opacity: 0.25; background-image:url(images/projects/ldproducts.png);'></div>
+        <div class='bg' style='opacity: 0.25; background-image:url(images/projects/alcatel.png);'></div>
         <section class='text-center'>
-          <h1>LD Products</h1>
+          <h1>Alcatel</h1>
         </section>
       </section>
       <section class='wide'>
         <div class='block'>
           <div class='row'>
             <div class='col-md-6'>
-              <h4>Web Site Redesign</h4>
-              <p>This was a website built with .net using the Umbraco Framework. My role was Lead Front End Development.<a href="http://www.99ranch.com">SEE SITE</a></p>
+              <h4>Magento 2 Developer</h4>
+              <p>Maintained current codebase while collaborating with creative teams and buil custom extensions for marketing teams.<a href="https://us.alcatelmobile.com/">SEE SITE</a></p>
             </div>
             <div class='col-md-2 col-md-offset-2'>
               <h4>Client</h4>
-              <p>99 Ranch</p>
+              <p>Alcatel</p>
               <h4>Created</h4>
-              <p>2012-2013</p>
+              <p>2016-2017</p>
             </div>
             <div class='col-md-2'>
               <h4>Role</h4>
-              <p>Front End Developer, <br>Umbraco expert</p>
+              <p>Magento 2 Developer</p>
             </div>
           </div>
         </div>
