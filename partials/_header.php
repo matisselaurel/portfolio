@@ -15,7 +15,7 @@
     <link href="stylesheets/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="stylesheets/font-awesome.min.css" rel="stylesheet" type="text/css" />
     <link href="stylesheets/style.css" rel="stylesheet" type="text/css" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.4/TweenMax.min.js"></script>
+    <script src="javascripts/gsap.js"></script>
     <!-- HTML5 fallbacks -->
     <!--[if lt IE 9]>
     <script src="javascripts/html5shiv.js" type="text/javascript"></script>
@@ -47,7 +47,7 @@
       <section>
       <!-- <div class='shine'></div> -->
       <a id="brand-logo" class='brand' href='/'>
-            Matisse Laurel <span> here to give you insight</span>
+            Matisse Laurel <span> </span>
           </a>
           <ul id='navigation'>
             <div class='trigger'>

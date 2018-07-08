@@ -1604,13 +1604,14 @@ header.affix-top {
 }
 
 .ecomtext{
-    line-height: 24px;
+    line-height: 28px;
     box-shadow: inset 17px 27px 0px 0px rgba(0,200,2000,0.75);    
     height: 400px;
-    width: 400px!important;
+    text-shadow: 5px 0px 10px rgba(255, 255, 255, 1);
+    width: 70%!important; 
     padding: 32px 28px 30px 25px;
     left: 25%;
-    background-color: azure;
+    letter-spacing: -0.5px;
     text-align: left;
     opacity: 0;
     transform: perspective(700px) rotateY(-11deg);
@@ -1618,7 +1619,7 @@ header.affix-top {
     font-weight: 900;
 }
 .jheader2{
-  font-family: monospace;
+/*  font-family: monospace;*/
   color: white;
   font-size:30px;
 }
@@ -1653,12 +1654,13 @@ header.affix-top {
     
     .jheader2 {
 	padding: 5px 20px 5px 5px;
-	font-size: 20px;
+	font-size: 100%;
     }
 
     .textEffect .ecomtext {
 /*	width: 100%!important;
 	margin-left: -96px;*/
+
 	font-size: 16px;
 	left: 10%;
     }
@@ -1674,5 +1676,6 @@ Slide 3 text
 @media screen and (max-width: 420px) {
     .textEffect .ecomtext {
 	left: -4%;
+	width: 85%!important;
     }
 } 
