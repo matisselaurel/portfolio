@@ -15,7 +15,7 @@
     <link href="stylesheets/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="stylesheets/font-awesome.min.css" rel="stylesheet" type="text/css" />
     <link href="stylesheets/style.css" rel="stylesheet" type="text/css" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.4/TweenMax.min.js"></script>
+    <script src="javascripts/gsap.js"></script>
     <!-- HTML5 fallbacks -->
     <!--[if lt IE 9]>
     <script src="javascripts/html5shiv.js" type="text/javascript"></script>
@@ -27,11 +27,27 @@
     <div class='container-fluid'>
 
       <header data-spy='affix'>
-      <img id="img-earth" alt="Sap" src="images/earth.png" width="650" />
+   
+<div class="sun">
+    <div class="ray_box">
+        <div class="ray ray1"></div>
+        <div class="ray ray2"></div>
+        <div class="ray ray3"></div>
+        <div class="ray ray4"></div>
+        <div class="ray ray5"></div>
+        <div class="ray ray6"></div>
+        <div class="ray ray7"></div>
+        <div class="ray ray8"></div>
+        <div class="ray ray9"></div>
+        <div class="ray ray10"></div>
+    </div>
+</div>
+   
+<!--      <img id="img-earth" alt="Sap" src="images/earth.png" width="650" /> -->
       <section>
-      <div class='shine'></div>
+      <!-- <div class='shine'></div> -->
       <a id="brand-logo" class='brand' href='/'>
-            Matisse Laurel <span> here to give you insight</span>
+            Matisse Laurel <span> </span>
           </a>
           <ul id='navigation'>
             <div class='trigger'>
