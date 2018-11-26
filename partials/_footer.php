@@ -18,7 +18,7 @@
                   <div class='fa fa-phone'></div>
                 </div>
                 <div class='col-md-10'>
-                  <p>(951) 259 3182</p>
+                  <p>(949) 372 8879</p>
                 </div>
               </div>
             </div>
@@ -28,7 +28,7 @@
                   <div class='fa fa-envelope-o'></div>
                 </div>
                 <div class='col-md-10'>
-                  <p><a href="mailto:info@matisselaurel.codes">info@matisselaurel.codes</a></p>
+                  <p><a href="mailto:madebymatisse@gmail.com">madebymatisse@gmail.com</a></p>
                 </div>
               </div>
             </div>
