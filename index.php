@@ -30,7 +30,8 @@
               
 <li class='item magento'>  
               <a class='inner' href='alcatel' style='background:url(images/projects/alt.jpg);'>  
-                <div class='caption'>  
+                <div class='caption'>
+		
                   <div class='field'>  
                     Magento 2 + eCommerce + Smart Phones
                   </div>  
@@ -249,7 +250,7 @@
 
         </ul>
       </section>
-     <!-- <section>
+     <section>
         <div class='row block'>
           <div class='col-md-6 col-md-offset-3'>
             <div class='text-center'>
@@ -260,5 +261,5 @@
             </div>
           </div>
         </div>
-      </section> -->
+      </section>
 <?php require_once('partials/_footer.php') ?>
